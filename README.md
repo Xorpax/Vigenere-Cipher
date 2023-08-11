@@ -3,7 +3,7 @@ A polyalphabetic substitution cipher
 
 
 ## IMPORTANT
-_main.py will produce errors without colors.py and main.py_
+_main.py will produce errors without colors.py and main.py_  
 _those 2 files are required for visuals_
 
 This script supports only ASCII characters
